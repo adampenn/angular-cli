@@ -6,7 +6,7 @@
 `ng generate [name]` generates the specified schematic
 
 ## Available Schematics:
- - [class](generate/class)
+ - [class](generate/class.md)
  - [component](generate/component)
  - [directive](generate/directive)
  - [enum](generate/enum)
